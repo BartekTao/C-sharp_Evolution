@@ -37,25 +37,25 @@
 ### XML Documentation Comments
 * 寫範例，展示程式碼中顯示樣式以及文檔中的顯示樣式
 * 輸出文檔
-```
-<code>
-cerf
-<example>
-<exception>
-<list>
-<para>
-<param>
-<paramref>
-<typeparam>
-<typeparamref>
-<premiaaion>
-<remarks>
-<return>
-<see>
-<seealso>
-<summary>
-<value>
-```
+    ```
+    <code>
+    cerf
+    <example>
+    <exception>
+    <list>
+    <para>
+    <param>
+    <paramref>
+    <typeparam>
+    <typeparamref>
+    <premiaaion>
+    <remarks>
+    <return>
+    <see>
+    <seealso>
+    <summary>
+    <value>
+    ```
 
 ---
 
@@ -71,25 +71,25 @@ cerf
 ## 第三堂課
 ### Classes & Structs
 * classes & structs
-```
-Fields
-Constants
-Properties
-Constructors
-Events
-Finalizers
-Indexers
-Operators
-Nested Types
-```
+    ```
+    Fields
+    Constants
+    Properties
+    Constructors
+    Events
+    Finalizers
+    Indexers
+    Operators
+    Nested Types
+    ```
 
 * 修飾詞
-類型有哪些
-使用時機
+    1. 類型有哪些
+    2. 使用時機
 * 繼承
 * 多型
 * Extension Methods
-> 感覺知道類型之後在學擴充方法比較好[name=BartekTao][time=Sat, Nov 2, 2019 3:23 PM][color=#4bf4cd]
+    > 感覺知道類型之後在學擴充方法比較好[name=BartekTao][time=Sat, Nov 2, 2019 3:23 PM][color=#4bf4cd]
 
 ---
 
