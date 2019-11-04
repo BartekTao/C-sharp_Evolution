@@ -14,7 +14,6 @@
 ## 目錄
 > [TOC]
 
-
 ## 第一堂課
 ### Program Structure程式結構
 * programs程式, namespaces命名空間, types型別, members成員, and assemblies組件
@@ -107,7 +106,7 @@
 * Array
 * Dictionary
 * Hashtable
-* Hashtable與Dictionary差異
+* [Hashtable與Dictionary差異](https://dotblogs.com.tw/sunnylearning/2018/05/17/144428)
 * IEnumerable
 
 ---
@@ -126,7 +125,7 @@
 ---
 
 ## 第六堂課
-### 物件導向原則
+### [物件導向原則](https://www.cnblogs.com/keepfool/category/819725.html)
 ### 練習周(運用以上學過的東西出個題目)
 
 ---
@@ -160,8 +159,7 @@
 
 ---
 
-## 第十ㄧ堂課
-
+## 第十一堂課
 ### Attributes
 ### RegularExpression
 
@@ -169,6 +167,7 @@
 
 ## 第十二堂課
 ### Exceptions and Exception Handling
+### 單元測試
 ### 總結實作
 
 ---
@@ -204,9 +203,101 @@
 
 ---
 # 參考資料
-[峻歲的bug單](https://esunrm.esunbank.com.tw/redmine/issues/66542)
-這個是?發人省思還是修掉算結業?
+[峻歲的bug單](https://esunrm.esunbank.com.tw/redmine/issues/66542)  
+這個是?發人省思還是修掉算結業?  
 [純css鯨魚](http://www.subcide.com/experiments/fail-whale/)
 [獅子](https://codepen.io/Yakudoo/pen/YXxmYR)
 
 {%vimeo 352588616%}
+
+
+
+
+
+
+---
+
+> # 幫我翻譯
+> [color=#F00000][name=BartekTao]  
+
+暫時命名
+
+財務報表暨會計師查核報告 FinancialAccountantReport
+
+最近月份自編財務報表 LatestFinancialReport
+
+年度報稅報表 AnnualTaxReport
+
+公司章程 CompanyCharter
+
+實質受益人聲明 SubstantialBeneficiaryClaim
+
+公司變更登記表 CompanyChangeRegistration
+
+辨識法人戶實質受益人檢核表 LegalPersonChecklist
+
+股東名冊 RegisterShareholder
+
+董事職權證明書 CertificateDirectorship
+
+經濟部商業司公司登記資料查詢 CompanyRegistrationInformation
+
+顧客資料聲明書 CustomerStatement
+
+財政部營業 FinancialBusiness
+
+註冊證書 CertificateRegistration
+
+經濟部工業局工廠公示資料查詢 FactoryPublicityInfo
+
+存續證明 ProofSurvival
+
+顧客風險檢核表 CustomerRiskChecklist
+
+驗資證明 CertificateCapital
+
+不動產興建計劃表 RealEstateConstructionPlan
+
+歷年推案業績表 AnnualCaseReport
+
+在建工案明細表 ConstructionSchedule
+
+銀行現欠加本次中長期申請額度逾2億元，徵提之四大預估報表、營運計畫書、建廠進度表 Others
+
+土地分區使用證明 LandCertificate
+
+土建融案件控管表 LandBuildingMarginLoanControlList
+
+建築執照 BuildingLicense
+
+建融撥款進度表 LandBuildingMarginLoanGrantSchedule
+
+合建分售契約 JointSalingContract
+
+地籍圖 CadastralMap
+
+買賣契約書
+
+海外設立批准證書
+
+投資架構圖
+
+公司章程
+
+辦理大陸地區顧客授信案件檢核表
+
+營業執照
+
+國土證借款證投審會核准函
+
+自編報表及審計報告
+
+應收帳款承購業務查核報告書
+
+公開說明書
+
+產業資訊或公司相關資料
+
+
+
+---
