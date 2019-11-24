@@ -114,3 +114,4 @@ UpgradeLog*.XML
 /.vs
 /ProgramStruc ture/.vs/ProgramStruc ture/v16/Server/sqlite3
 /ProgramStructure/.vs
+/Type/.vs/Type/v16/Server/sqlite3
